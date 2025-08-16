@@ -1,0 +1,12 @@
+[
+  {
+    "game": "ghost of tsushima",
+    "target_fps": "60",
+    "analysis_date": "2025-08-14 23:17:41",
+    "settings_detected": 23,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "analysis_type": "Optimized Performance",
+    "achieved_fps_estimate": "Not specified",
+    "key_optimizations": "DLSS/FSR recommended"
+  }
+]

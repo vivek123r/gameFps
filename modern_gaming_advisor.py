@@ -81,7 +81,7 @@ class ModernGamingAdvisor:
         if api_key:
             try:
                 genai.configure(api_key=api_key)
-                self.ai_model = genai.GenerativeModel('gemini-2.0-flash')
+                self.ai_model = genai.GenerativeModel('gemini-2.5-pro')
                 print("✅ Gemini AI initialized successfully!")
             except Exception as e:
                 print(f"❌ Failed to initialize Gemini: {e}")
