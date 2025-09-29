@@ -1,0 +1,17 @@
+# Core dependencies
+tk
+pillow
+requests
+beautifulsoup4
+
+# System monitoring
+psutil
+py-cpuinfo
+GPUtil
+
+# AI (optional)
+google-generativeai
+
+# Required for the Game Library
+requests
+Pillow

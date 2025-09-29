@@ -1,0 +1,30 @@
+{
+  "rtx 3050": {
+    "name": "rtx 3050",
+    "performance_tier": "high-end",
+    "avg_fps_1080p": {
+      "ultra": 160,
+      "high": 200,
+      "medium": 240,
+      "low": 300
+    },
+    "avg_fps_1440p": {
+      "ultra": 120,
+      "high": 150,
+      "medium": 180,
+      "low": 220
+    },
+    "avg_fps_4k": {
+      "ultra": 60,
+      "high": 80,
+      "medium": 100,
+      "low": 140
+    },
+    "vram_requirements": {
+      "ultra_textures": 8,
+      "high_textures": 6,
+      "medium_textures": 4,
+      "low_textures": 2
+    }
+  }
+}
